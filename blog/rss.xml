@@ -4,10 +4,30 @@
         <title>小江 Blog</title>
         <link>https://luyu02.github.io/blog</link>
         <description>小江 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[小江02]]></title>
+            <link>https://luyu02.github.io/blog/luyu1</link>
+            <guid>https://luyu02.github.io/blog/luyu1</guid>
+            <pubDate>Sun, 29 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[这是一个md格式的博客]]></description>
+            <content:encoded><![CDATA[<p>这是一个md格式的博客</p>]]></content:encoded>
+            <category>随笔</category>
+            <category>诗</category>
+        </item>
+        <item>
+            <title><![CDATA[小江01]]></title>
+            <link>https://luyu02.github.io/blog/luyu</link>
+            <guid>https://luyu02.github.io/blog/luyu</guid>
+            <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[内容111111111111]]></description>
+            <content:encoded><![CDATA[<p>内容111111111111</p>]]></content:encoded>
+            <category>随笔</category>
+            <category>诗</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://luyu02.github.io/blog/welcome</link>
